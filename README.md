@@ -14,7 +14,7 @@
 >
 > $pkg install imagemagick
 >
-> $git clone https://github.com/RzLModz/V6
+> $git clone https://github.com/Hnrmantap/V6
 >
 > $cd V6
 >
@@ -40,6 +40,6 @@
 #randomtext
 >
 > If you find an error please contact me!
-wa.me/6288277562022
+wa.me/6285781571707
 >
 > ✨Thanks To all creator bot dan om recode di seluruh Nusantara
