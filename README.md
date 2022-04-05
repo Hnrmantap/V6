@@ -14,9 +14,9 @@
 >
 > $pkg install imagemagick
 >
-> $git clone https://github.com/Hnrmantap/V6
+> $git clone https://github.com/Hnrmantap/V7
 >
-> $cd V6
+> $cd V7
 >
 > $npm start
 >
